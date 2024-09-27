@@ -14,12 +14,15 @@ kkp hari ke-8
 - ⚡ Jam 4 lewat 59 menit bisami pulang ...
 - ⚡ Gila lu ndrooo ...
 -->
+<br>
+<br>
+<br>
 <p align="center">
 <a href="http://127.0.0.1:5500/index.html">    
      
 
     
-# 🖥️ Technical Skills: 
+# 🖥️ Skills Ala-Ala Uhuy: 
 <p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -129,25 +132,17 @@ kkp hari ke-8
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
   </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-  </a>
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
+ 
+ 
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdnadeemSarwar&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=MdnadeemSarwar&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MdnadeemSarwar&theme=radical&hide_border=false)
+<center>
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MdnadeemSarwar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+ </center>
  
 
 ```text
-Python   2 jam 24 menit    █████████████████████████   100.00 %
+KKP PLN(Persero) Hari ke 8  █████████████████████  100.00 %
 ```
-# 📊 MANTAP MENTONG KA'BULAMPE'
+# 🖥️ MANTAP MENTONG KA'BULAMPE'
