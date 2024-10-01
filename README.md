@@ -1,6 +1,6 @@
 Template profile custom punya orang india wakakkasksk:
 
-kkp hari ke-8
+kkp hari ke-10
 
 - 🔭 Berangkat surise pulang sunset ...
 - 🌱 Sampai kantor lansung absen ...
@@ -146,3 +146,4 @@ kkp hari ke-8
 KKP PLN (UIP) Hari ke 8  █████████████████████  100.00 %
 ```
 # 🖥️ MANTAP MENTONG KA'BULAMPE'
+
