@@ -1,6 +1,6 @@
 Template profile custom punya orang india wakakkasksk:
 
-kkp hari ke-11, hah?
+kkp hari ke-11, hah? iyakah?
 
 - 🔭 Berangkat surise pulang sunset ...
 - 🌱 Sampai kantor lansung absen ...
