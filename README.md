@@ -13,6 +13,10 @@ kkp hari ke-11, hah? iyakah?
 - ⚡ Sok sibuk lagi sampe ashar ...
 - ⚡ Jam 4 lewat 59 menit bisami pulang ...
 - ⚡ Gila lu ndrooo ...
+- 🤔 Sasa Tidur teruss
+- 💬 Project dari Pak Yani, Pak Agus Mangkrak
+- 💬 Yahahaaaaa Pergi Survey Panas Panas
+- 🔭 Kami pamit Undur diri, Terimakasih kepada PLN dan orang orang baik yang ada di dalamnya... (update 30 november 2025)
 
 <br>
 <br>
@@ -22,7 +26,7 @@ kkp hari ke-11, hah? iyakah?
      
 
     
-# 🖥️ Skills Ala-Ala Uhuy: 
+# 🖥️ SKill Sotta': 
 <p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -145,5 +149,10 @@ kkp hari ke-11, hah? iyakah?
 ```text
 KKP PLN (UIP) Hari ke 11  █████████████████████  100.00 %
 ```
+
+```text
+KKP PLN (UID SULSELRABAR), (UIP SULAWESI), (PLN UP3 MAKASSAR SELATAN), (PLN ULP MATTOANGING)   █████████████████████  100.00 % RESMI DITAMATKAN
+```
 # 🖥️ MANTAP MENTONG KA'BULAMPE'
+
 
