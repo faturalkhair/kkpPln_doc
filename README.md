@@ -23,7 +23,7 @@ kkp hari ke-11, hah? iyakah?
 <br>
 <p align="center">
 <a href="http://127.0.0.1:5500/index.html">    
-     
+
 
     
 # 🖥️ SKill Sotta': 
@@ -158,3 +158,4 @@ KKP PLN (UID SULSELRABAR), (UIP SULAWESI), (PLN UP3 MAKASSAR SELATAN), (PLN ULP 
 
 
 #bismillah 2026
+#oke
